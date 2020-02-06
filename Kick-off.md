@@ -41,34 +41,35 @@ During this project you will:
 
 ## Initialization Steps
  - Divide up in groups
- - For each group one of the group members forks this template repository and invite the   other group members of to collaborate
+ - For each group one of the group members forks and clone this template repository and  and invites the   other group members to collaborate on the forked repository
  - The other group members accept the invitation, clone the forked repository and start collaborating on the same repository
 
 ## Requirements & Deliverables
 The **mandatory** deliverables and requirements that you must turn in are:
 * Link to the repository you used while working on your project (see below for more details)
 * Your repository must be clean and organized; this means that it must include a *.gitignore* file that blocks
-  any images and datafiles., a README file and also have a functional file structure.
+  any images and datafiles, a README file and also have a functional file structure.
 * The README file is based on the template you find here (in your_code folder)
   * Your README file must clearly include which topic you chose and which are the questions you would like to find an answer to.
   * Your README file should include a link to your group's TRELLO board. The project must be planned. 
     That is why creating a Kanban board is important. 
     You can find a template for Trello [here](https://trello.com/b/usAykV9K/project-2-barcelona). 
-    **You are strongly advised not to start coding you until your project is planned and your questions defined**
+    **You are strongly advised not to start coding until your project is planned and your questions defined**
   * Your README must include **links** to all the raw files you used to complete your analysis. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit! The raw data can be stored on our google drive (see below) or you can provide a link that points to the original source of the data.
   * Your README file must include a **link** to the database you created starting from the raw files.The database file should be of type *.sql
   * Your README file should include a **link** to your Entity Relationship Diagram (ERD) image that describes the structure of your database. You don't need to specify the data types of each column, only the tables you will create, the columns they have and the relationships between the tables. 
     Include the link to your ERD in your README file.
   * Your README file should contain a **link** to the project  presentation
-* Your repository should contain a data folder for your data. **But the data should be used only locally not uploaded to the repository**. The links to the relevant data are placed in the jupyter analysis file that you are going to create for your project. The data are then to be downloaded and placed in the data folder. In your analysis remember to refer to the data folder in a relative way ( for example '../data'), **do not use absolute paths**.
+* Your repository should contain a data folder for your data. **But the data should be used only locally not uploaded to the repository**. The links to the relevant data are placed in the jupyter analysis file that you are going to create for your project. The data are then to be downloaded and placed in the data folder. In your analysis remember to refer to the data folder in a relative way (for example '../data'), **do not use absolute paths**.
 * **Please use the folder on our google drive [here](https://drive.google.com/open?id=1DENzJ_zNs_Mr6lOfeuczX2ARbpSSp6lP) to store raw data, link to repository, databases, images and presentation files**. Please read the README files in the folders.
 * The repository should contain only Jupyter and/or Python files with your analysis
 
 ## Please notice that:
 **The database file and raw data files and images should be stored on our google drive not on repository** 
-*  **NO PLOTTING IS ALLOWED IN THIS PROJECT**.
+* Both the raw data and *.sql file should be accessible via the links your group provides
+* You can make a database out of your raw data and use pandas to further manipulate the data or you can use sql techniques to work on the data.
+*  **NO PLOTTING IS ALLOWED IN THIS PROJECT** because its main goal is data wrangling. You can make plots from your analysis dataframes for your power point presentations.
 * The project needs to be presented to your colleagues on the day of the presentation.
-
 
 The **deadline** to turn in the deliverables is right before the project presentations.
 ## Presentation time Saturday February 29th at **2 PM**! (last day of Module 1)
@@ -95,10 +96,10 @@ Your mentors are **not** meant to:
 * Brainstorm to find out what kind of data you can use to answer those questions.
 * Research and look for the data you need. You can find some useful links to investigate in the ```Resources``` section.
 * On Saturday 8th of February there will be individual sessions in which you will discuss your topic and research questions with your teachers. 
-* On Tuesdag the 11th of February, there will be a session with your teachers in which you will present the data sets you will be using for this project. 
+* On Tuesday the 11th of February, there will be a session with your teachers in which you will present the data sets you will be using for this project. 
 
 **Phase 2**
-* Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/usAykV9K/project-2-barcelona). Define tasks, specifying those to be done individually and those to be done together. Remember that you **CAN'T CODE** until your project is planned.
+* Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/usAykV9K/project-2-barcelona). Define tasks, specifying those to be done individually and those to be done together. You are encouraged  **NOT TO CODE** until your project is planned.
 * Once you finish, start coding!
 * Clean your data.
 * Design and build your database.
