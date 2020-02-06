@@ -159,7 +159,7 @@ Our suggestion is to include at least the following slides in your presentation 
 * Questions you were not able to answer and why
 * Learnings
 
-**Remember to present your insights as understandably as possible without using plots!**
+**Remember to present your insights as understandably as possible, using basic plots only if really necessary!**
 
 ## Tips & Tricks
 * Questions first. Data second.
