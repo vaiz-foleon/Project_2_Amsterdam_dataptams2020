@@ -47,14 +47,15 @@ During this project you will:
 ## Requirements & Deliverables
 The **mandatory** deliverables and requirements that you must turn in are:
 * Link to the repository you used while working on your project (see below for more details)
-* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure.
+* Your repository must be clean and organized; this means that it must include a *.gitignore* file that blocks
+  any images and datafiles., a README file and also have a functional file structure.
 * The README file is based on the template you find here (in your_code folder)
   * Your README file must clearly include which topic you chose and which are the questions you would like to find an answer to.
   * Your README file should include a link to your group's TRELLO board. The project must be planned. 
     That is why creating a Kanban board is important. 
     You can find a template for Trello [here](https://trello.com/b/usAykV9K/project-2-barcelona). 
     **You are strongly advised not to start coding you until your project is planned and your questions defined**
-  * Your README must include **links** to all the raw files you used to complete your analysis. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit!
+  * Your README must include **links** to all the raw files you used to complete your analysis. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit! The raw data can be stored on our google drive (see below) or you can provide a link that points to the original source of the data.
   * Your README file must include a **link** to the database you created starting from the raw files.The database file should be of type *.sql
   * Your README file should include a **link** to your Entity Relationship Diagram (ERD) image that describes the structure of your database. You don't need to specify the data types of each column, only the tables you will create, the columns they have and the relationships between the tables. 
     Include the link to your ERD in your README file.

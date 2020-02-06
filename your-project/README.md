@@ -36,7 +36,7 @@ How did you organize your work? Did you use any tools like a kanban board?
 What does your repository look like? Explain your folder and file structure.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
+Include relevant links (that point to google drive or data sources) to your repository, slides, data, database, ERD, and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
