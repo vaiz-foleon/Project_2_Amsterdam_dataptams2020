@@ -33,6 +33,7 @@ These datasets contain different information about listings, reviews, neighborho
 ## Database
 Our database consists of 5 tables (so far, maybe will need update afterwards) connected between them. Of these 5 tables, 2 of them are just an extended table from their original.  
 We have listings and listing_details (as mentioned before, its exactly like its mother table but with much more columns of information) which is a list of all the available listings in Amsterdam; We also have reviews and reviews_details (same case), which include all the reviews for the aforementioned listings. Last, we have calendar that lists all the dates of the year for each listing, and information like availability and price.
+![Database diagram](images/db_diagram.png)
 
 ## Workflow
 <!-- Outline the workflow you used in your project. What are the steps you went through? -->
