@@ -16,7 +16,7 @@
 
 
 ## Project Description
-For this project we are focusing on Airbnb and their housing service in Amsterdam. Throught the analysis of different sets of data we want to give a brief description of the status of their business in our city (and the evolution of this business throught a longitudinal dataset if we decide to include multiple years). We chose this project because its the only good data we got -HA!- XXXXXXXXXXXX
+For this project we are focusing on Airbnb and their housing service in Amsterdam. Throught the analysis of different sets of data we want to give a brief description of the status of their business in our city (and the evolution of this business throught a longitudinal dataset if we decide to include multiple years). We chose this project because its the only good data we got -HA!- XXXXXXXXXXXX What Victor did here is horsecrap
 
 ## Questions & Hypotheses
 <!-- What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data? -->
