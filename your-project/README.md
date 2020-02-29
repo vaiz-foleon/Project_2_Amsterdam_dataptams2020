@@ -40,14 +40,9 @@ We have listings and listing_details (as mentioned before, its exactly like its 
 Bla bla bla
 
 ## Organization
-<!-- How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure. -->
-Bla bla bla
+We used a Trello board to have a better overview of the tasks that were needed in each stage and to organize ourselves so that when working separated we could work parallelly in different tasks without risk of overwriting our progress and to identify which were the tasks that needed us to work together on.
 
 ## Links
-<!-- Include relevant links (that point to google drive or data sources) to your repository, slides, data, database, ERD, and kanban board. Feel free to include any other links associated with your project. -->
-
 [Repository](https://github.com/vaiz-foleon/Project_2_Amsterdam_dataptams2020)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/b/p2i8mqWY/ironhack-project-airbnb)  
