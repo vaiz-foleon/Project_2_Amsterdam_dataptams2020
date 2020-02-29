@@ -16,8 +16,8 @@
 
 
 ## Project Description
-For this project we are focusing on Airbnb and their housing service in Amsterdam. Through the analysis of different sets of data we want to give a brief description of the status of their business in our city (and the evolution of this business throught a longitudinal dataset if we decide to include multiple years). We chose this project because Amsterdam has the highest prices and rentings of all the European capitals and theres been an active debate on the impact of Airbnb on the quality of life of residents.
 
+For this project we are focusing on Airbnb and their housing service in Amsterdam. Through the analysis of different sets of data we want to give a brief description of the status of their business in our city (and the evolution of this business throught a longitudinal dataset if we decide to include multiple years). We chose this project because Amsterdam has the highest prices and rentings of all the European capitals and theres been an active debate on the impact of Airbnb on the quality of life of residents.
 ## Questions & Hypotheses
 Our main question is: Has Airbnb housing business increased in the last year (or years, to define) or declined?  
 - Our Null Hypothesis is that the business has not grown in the last year(s).  
